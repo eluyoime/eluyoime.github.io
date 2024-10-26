@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eluyoime.github.io/sitemap_index.eluyoime
